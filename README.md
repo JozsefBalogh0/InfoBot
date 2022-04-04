@@ -9,3 +9,6 @@ Bot's invite link: https://discord.com/api/oauth2/authorize?client_id=9282847878
 
 Bot setup:
 1. Enter your Discord bot token to .env
+
+Once bot is invited to your server:
+Type !config to start Bot configuration.
